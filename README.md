@@ -36,7 +36,7 @@ A real-time chat application built with modern technologies, providing seamless 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/ZBS-1910/Chat-Appliaction.git
 ```
 
 2. Install dependencies:
@@ -119,4 +119,4 @@ curl -X POST http://localhost:3000/api/auth/login \
 
 #### Get User Profile
 - **Endpoint**: GET `/api/auth/user`
-# Chat-Appliaction
+
